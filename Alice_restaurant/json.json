@@ -1,0 +1,60 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "titel": "Ceviche",
+        "beskrivelse": "Torsk, advocado og lime",
+        "pris": 100,
+        "ret": "forret",
+        "foto": "ceviche.jpg"
+      },
+      {
+        "id": 2,
+        "titel": "Quesadilla",
+        "beskrivelse": "Med ost, skinke og tomatsalsa",
+        "pris": 80,
+        "ret": "forret",
+        "foto": "quesadilla.jpg"
+      },
+      {
+        "id": 3,
+        "titel": "Enchiladas",
+        "beskrivelse": "Okskekød, ost og stærke saucer",
+        "pris": 120,
+        "ret": "hovedret",
+        "foto": "enchiladas.jpg"
+      },
+      {
+        "id": 4,
+        "titel": "Taco",
+        "beskrivelse": "M. fisk / kylling / okse",
+        "pris": 50,
+        "ret": "hovedret",
+        "foto": "tacos.jpg"
+      },
+      {
+        "id": 5,
+        "titel": "Churros",
+        "beskrivelse": "Sukker churros m. is",
+        "pris": 70,
+        "ret": "dessert",
+        "foto": "churros.jpg"
+      },
+      {
+        "id": 6,
+        "titel": "Kokos is",
+        "beskrivelse": "Kokos is m. frisk frugt",
+        "pris": 70,
+        "ret": "dessert",
+        "foto": "is.jpg"
+      },
+      {
+        "id": 7,
+        "titel": "Oliven",
+        "beskrivelse": "Små grønne oliven",
+        "pris": 30,
+        "ret": "tilbehør",
+        "foto": "oliven.jpg"
+      }
+    ]
+  }
